@@ -20,7 +20,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
       appBar: AppBar(
         title: Text('register'),
         centerTitle: true,
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.red,
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
